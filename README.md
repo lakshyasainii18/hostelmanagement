@@ -59,3 +59,4 @@ HostelManagementSystem/
 ├── submission/           # Final Software Engineering submission deliverables
 └── test_and_capture.py   # Automated browser test and screenshot script
 ```
+# hostelmanagement
